@@ -4,7 +4,7 @@
     <property name="created">2018-01-05T23:33:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-01-06T00:11:33</property>
+    <property name="modified">2018-01-09T19:59:36</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -31,6 +31,7 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bf899f" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
